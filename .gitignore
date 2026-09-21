@@ -1,0 +1,15 @@
+# QGIS
+*.qgz~
+*.qgs~
+*.qgd
+*.qgz.bak
+*~attachments.zip
+
+# GeoPackage locks / WAL
+*.gpkg-shm
+*.gpkg-wal
+*.gpkg-journal
+
+# Système
+.DS_Store
+Thumbs.db
